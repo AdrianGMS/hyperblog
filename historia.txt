@@ -2,4 +2,8 @@ Esta es la historia de Adrian Moscol
 
 Adrian Moscol tiene 22 años y nacio en Lima Peru soy programador.
 
+<<<<<<< HEAD
 Hoy hablaremos de mi vida y obra maestra xd x2 xd :D
+=======
+Mañana nos enfocaaremos en su vida laboral
+>>>>>>> cabecera
